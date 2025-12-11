@@ -4,8 +4,8 @@
     "name": "alicate",
     "price": 1000,
     "category": "accesorios",
-    "description": "Soporte metalico para botellas de 750ml.",
-    "info": "Echo en acero inoxidable, se provee dos tornillos allen m5 para su anclaje",
+    "description": "Alicate de corte diagonal de alta resistencia.",
+    "info": "Fabricado en acero al cromo vanadio, mango ergonómico antideslizante y bordes de corte endurecidos.",
     "imageUrl": "/images/alicate.webp"
   },
   {
@@ -13,8 +13,8 @@
     "name": "destornillador",
     "price": 2500,
     "category": "accesorios",
-    "description": "Cubierta R29 con taco, todo terreno.",
-    "info": "Importada, origen: Malasia, Maxxis Rekon Race 29 X 2.25 Exo",
+    "description": "Destornillador punta Phillips imantada.",
+    "info": "Varilla de acero templado, punta magnética negra para mayor precisión y mango de goma soft-grip.",
     "imageUrl": "/images/destornillador.webp"
   },
   {
@@ -22,8 +22,8 @@
     "name": "martillo",
     "price": 3000,
     "category": "repuestos",
-    "description": "Ht X3 Dh Race Red - Downhill Rojo",
-    "info": "Sistema de calas: Compatible con el exclusivo sistema X1 / X1F de HT, que permite una fijación segura y eficiente.",
+    "description": "Martillo galponero con mango de fibra de vidrio.",
+    "info": "Cabeza de acero forjado de 500g con uña extractora, ideal para carpintería y construcción.",
     "imageUrl": "/images/martillo.webp"
   },
   {
@@ -31,8 +31,8 @@
     "name": "amoladora",
     "price": 4500,
     "category": "accesorios",
-    "description": "Inflador Bici Giyo Válvula Inteligente Manometro",
-    "info": "Inflador mini de aluminio que infla en doble sentido y esta provisto de Válvula Inteligente",
+    "description": "Amoladora angular eléctrica de 115mm.",
+    "info": "Potencia de 850W, velocidad de 11000 RPM, incluye guarda de protección y empuñadura lateral.",
     "imageUrl": "/images/amoladora.webp"
   },
   {
@@ -40,8 +40,8 @@
     "name": "llave francesa",
     "price": 3200,
     "category": "accesorios",
-    "description": "Kit de luces ",
-    "info": "trasera/delantera con cable usb y goma de sujecion",
+    "description": "Llave ajustable cromada de 10 pulgadas.",
+    "info": "Acero forjado con acabado satinado, escala milimétrica grabada a láser y apertura suave.",
     "imageUrl": "/images/llave_francesa.webp"
   },
   {
@@ -49,8 +49,8 @@
     "name": "llave inglesa",
     "price": 1200,
     "category": "repuestos",
-    "description": "Bocina tipo corneta ",
-    "info": "muy ruidosa 60db, con anclaje para manubrio",
+    "description": "Llave de tubo tipo Stilson para trabajos pesados.",
+    "info": "Cuerpo de hierro fundido, mordazas ajustables de acero endurecido, ideal para plomería y cañerías.",
     "imageUrl": "/images/llave_inglesa.webp"
   }
 ]
