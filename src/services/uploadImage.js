@@ -6,7 +6,7 @@
 //     Para prácticas esta ok, pero no es ideal para ambientes reales.
 
 // "5f0228e97400634079f8e098d0c40f8a"
-const IMGBB_API_KEY = "e1f8dac5a46d2bf15cb7db70abb14650"; //👈reemplazan por la suya
+const IMGBB_API_KEY = "a6547a1903369e306cf1a5c39ffa3ecf"; //👈reemplazan por la suya
 const ENDPOINT = "https://api.imgbb.com/1/upload";
 
 // Funcion con la que vamos a convertir la imagen (File) a cadena base64
